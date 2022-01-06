@@ -54,7 +54,8 @@ Resta apenas o upload do mesmo na Google Play
 - TypeScript
 - ...
 
-Dependencias utilizadas no projeto:
+🖊 **Dependencias utilizadas no projeto:** 
+
 <h6>(package.json)</h6>
 
 ```javascript
