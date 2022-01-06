@@ -12,10 +12,9 @@
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
 
 ### Demonstracao:
-<br/>
-<img src="./gif.gif" width="220">|<img src="./gif.gif" width="220">|<img src="./gif.gif" width="220">
-<br/>
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
+
+<b><a href="http://aldeiaconsultoriajr.com">Aldei Consultoria Jr. (nlw-5)</a></b><br><br><img src="./gif.gif"  width="220">|<img src="./gif.gif" width="220">|<img src="./gif.gif" width="220">
+<br>
 
 ### SOBRE:
 <br/>
@@ -35,10 +34,9 @@
 
 Resta apenas o upload do mesmo na Google Play
 
+---
 <br/>
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
-
----
 
 ### Tecnologias
 
@@ -96,11 +94,9 @@ Dependencias utilizadas no projeto:
     "typescript": "~4.0.0"
   },
 ```
-
+---
 <br/>
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
-
----
 
 ### Desenvolvedores & Contribuidores
 
