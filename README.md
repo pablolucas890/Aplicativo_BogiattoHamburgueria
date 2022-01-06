@@ -13,7 +13,7 @@
 
 ### Demonstracao:
 
-<b><a href="http://aldeiaconsultoriajr.com">Aldei Consultoria Jr. (nlw-5)</a></b><br><br><img src="./gif.gif"  width="220">|<img src="./gif.gif" width="220">|<img src="./gif.gif" width="220">
+<br><br><img src="./gif.gif"  width="220">|<img src="./gif.gif" width="220">|<img src="./gif.gif" width="220">
 <br>
 
 ### SOBRE:
@@ -94,6 +94,9 @@ Dependencias utilizadas no projeto:
     "typescript": "~4.0.0"
   },
 ```
+
+<br><br><img src="./languages.png"  width="220">|<img src="./languages.png" width="220">|<img src="./languages.png" width="220">
+<br>
 ---
 <br/>
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
@@ -101,9 +104,11 @@ Dependencias utilizadas no projeto:
 ### Desenvolvedores & Contribuidores
 
 
-🖊 **Contributions to main, excluding merge commits and bot accounts:** 
+😍 **Contributions to main, excluding merge commits and bot accounts:** 
 
 <br/>
 
 |[<img src="https://github.com/pablolucas890.png" width=115 > <br> <sub> Pablo Lucas </sub>](https://github.com/pablolucas890)|[<img src="https://github.com/ViniciusCharleaux.png" width=115 > <br> <sub> Vinicius Charleaux </sub>](https://github.com/ViniciusCharleaux)|[<img src="https://github.com/azevgabriel.png" width=115 > <br> <sub> Gabriel Azevedo </sub>](https://github.com/azevgabriel)|[<img src="https://github.com/LeoHPC.png" width=115 > <br> <sub> Leonardo Henrique </sub>](https://github.com/LeoHPC)|[<img src="https://github.com/CarolineFMelo.png" width=115 > <br> <sub> Caroline Melo </sub>](https://github.com/CarolineFMelo)|[<img src="https://github.com/thevinex.png" width=115 > <br> <sub> vinícius Ferraz </sub>](https://github.com/thevinex)|[<img src="https://github.com/leandroaugust0.png" width=115 > <br> <sub> Leandro Augusto </sub>](https://github.com/leandroaugust0)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+---
